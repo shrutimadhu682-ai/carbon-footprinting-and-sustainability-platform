@@ -1,0 +1,181 @@
+Date,Department,Category,Activity_Type,Activity_Amount,Activity_Unit,Emission_Factor,Emissions_kgCO2e,Scope,Notes
+2024-01-24,Headquarters,Operations,Water Supply & Treatment,292.5,m3,0.344,100.62,Scope 3,Verified record from Headquarters operations
+2024-01-08,Headquarters,Electricity,Grid Electricity,13162.9,kWh,0.716,9424.64,Scope 2,Verified record from Headquarters operations
+2024-01-04,Headquarters,Transportation,Employee Commute Travel,6575.2,km,0.113,743.0,Scope 3,Verified record from Headquarters operations
+2024-01-14,Manufacturing Plant A,Operations,Municipal Solid Waste,183.4,kg,0.58,106.37,Scope 3,Verified record from Manufacturing Plant A operations
+2024-01-03,Manufacturing Plant A,Electricity,Grid Electricity,16089.6,kWh,0.716,11520.15,Scope 2,Verified record from Manufacturing Plant A operations
+2024-01-17,Manufacturing Plant A,Transportation,Employee Commute Travel,6015.1,km,0.113,679.71,Scope 3,Verified record from Manufacturing Plant A operations
+2024-01-14,Data Center,Operations,Municipal Solid Waste,381.5,kg,0.58,221.27,Scope 3,Verified record from Data Center operations
+2024-01-19,Data Center,Fuel,Diesel Generator Backup,681.2,liters,2.68,1825.62,Scope 1,Verified record from Data Center operations
+2024-01-28,Data Center,Transportation,Employee Commute Travel,1548.7,km,0.113,175.0,Scope 3,Verified record from Data Center operations
+2024-01-11,Logistics Hub,Transportation,Employee Commute Travel,3584.0,km,0.113,404.99,Scope 3,Verified record from Logistics Hub operations
+2024-01-07,Logistics Hub,Fuel,Diesel Generator Backup,1733.7,liters,2.68,4646.32,Scope 1,Verified record from Logistics Hub operations
+2024-01-11,Logistics Hub,Fuel,Natural Gas Heating,806.6,m3,2.03,1637.4,Scope 1,Verified record from Logistics Hub operations
+2024-01-28,Regional Office,Fuel,Natural Gas Heating,1531.9,m3,2.03,3109.76,Scope 1,Verified record from Regional Office operations
+2024-01-09,Regional Office,Electricity,Grid Electricity,37863.7,kWh,0.716,27110.41,Scope 2,Verified record from Regional Office operations
+2024-01-24,Regional Office,Transportation,Commercial Fleet Logistics,7513.1,km,0.241,1810.66,Scope 1,Verified record from Regional Office operations
+2024-02-18,Headquarters,Electricity,Grid Electricity,18847.6,kWh,0.716,13494.88,Scope 2,Verified record from Headquarters operations
+2024-02-21,Headquarters,Fuel,Natural Gas Heating,2355.6,m3,2.03,4781.87,Scope 1,Verified record from Headquarters operations
+2024-02-28,Headquarters,Transportation,Employee Commute Travel,4212.3,km,0.113,475.99,Scope 3,Verified record from Headquarters operations
+2024-02-02,Manufacturing Plant A,Fuel,Diesel Generator Backup,1275.0,liters,2.68,3417.0,Scope 1,Verified record from Manufacturing Plant A operations
+2024-02-25,Manufacturing Plant A,Operations,Water Supply & Treatment,302.6,m3,0.344,104.09,Scope 3,Verified record from Manufacturing Plant A operations
+2024-02-03,Manufacturing Plant A,Electricity,Grid Electricity,39646.8,kWh,0.716,28387.11,Scope 2,Verified record from Manufacturing Plant A operations
+2024-02-09,Data Center,Transportation,Employee Commute Travel,4900.6,km,0.113,553.77,Scope 3,Verified record from Data Center operations
+2024-02-27,Data Center,Electricity,Grid Electricity,21498.8,kWh,0.716,15393.14,Scope 2,Verified record from Data Center operations
+2024-02-12,Data Center,Fuel,Natural Gas Heating,1565.8,m3,2.03,3178.57,Scope 1,Verified record from Data Center operations
+2024-02-20,Logistics Hub,Operations,Water Supply & Treatment,544.5,m3,0.344,187.31,Scope 3,Verified record from Logistics Hub operations
+2024-02-18,Logistics Hub,Transportation,Commercial Fleet Logistics,10749.5,km,0.241,2590.63,Scope 1,Verified record from Logistics Hub operations
+2024-02-06,Logistics Hub,Electricity,Grid Electricity,25103.6,kWh,0.716,17974.18,Scope 2,Verified record from Logistics Hub operations
+2024-02-08,Regional Office,Transportation,Commercial Fleet Logistics,10215.4,km,0.241,2461.91,Scope 1,Verified record from Regional Office operations
+2024-02-27,Regional Office,Operations,Water Supply & Treatment,637.8,m3,0.344,219.4,Scope 3,Verified record from Regional Office operations
+2024-02-02,Regional Office,Operations,Municipal Solid Waste,390.5,kg,0.58,226.49,Scope 3,Verified record from Regional Office operations
+2024-03-09,Headquarters,Electricity,Grid Electricity,10449.0,kWh,0.716,7481.48,Scope 2,Verified record from Headquarters operations
+2024-03-19,Headquarters,Transportation,Commercial Fleet Logistics,12516.4,km,0.241,3016.45,Scope 1,Verified record from Headquarters operations
+2024-03-11,Headquarters,Fuel,Natural Gas Heating,1137.9,m3,2.03,2309.94,Scope 1,Verified record from Headquarters operations
+2024-03-05,Manufacturing Plant A,Fuel,Natural Gas Heating,1294.6,m3,2.03,2628.04,Scope 1,Verified record from Manufacturing Plant A operations
+2024-03-08,Manufacturing Plant A,Transportation,Employee Commute Travel,7087.4,km,0.113,800.88,Scope 3,Verified record from Manufacturing Plant A operations
+2024-03-18,Manufacturing Plant A,Operations,Water Supply & Treatment,283.9,m3,0.344,97.66,Scope 3,Verified record from Manufacturing Plant A operations
+2024-03-13,Data Center,Operations,Municipal Solid Waste,530.1,kg,0.58,307.46,Scope 3,Verified record from Data Center operations
+2024-03-05,Data Center,Fuel,Natural Gas Heating,2028.6,m3,2.03,4118.06,Scope 1,Verified record from Data Center operations
+2024-03-03,Data Center,Transportation,Employee Commute Travel,7168.4,km,0.113,810.03,Scope 3,Verified record from Data Center operations
+2024-03-21,Logistics Hub,Transportation,Employee Commute Travel,2699.9,km,0.113,305.09,Scope 3,Verified record from Logistics Hub operations
+2024-03-22,Logistics Hub,Electricity,Grid Electricity,23619.9,kWh,0.716,16911.85,Scope 2,Verified record from Logistics Hub operations
+2024-03-03,Logistics Hub,Fuel,Diesel Generator Backup,846.4,liters,2.68,2268.35,Scope 1,Verified record from Logistics Hub operations
+2024-03-09,Regional Office,Operations,Municipal Solid Waste,1169.6,kg,0.58,678.37,Scope 3,Verified record from Regional Office operations
+2024-03-28,Regional Office,Fuel,Natural Gas Heating,3327.3,m3,2.03,6754.42,Scope 1,Verified record from Regional Office operations
+2024-03-22,Regional Office,Transportation,Employee Commute Travel,6905.4,km,0.113,780.31,Scope 3,Verified record from Regional Office operations
+2024-04-25,Headquarters,Operations,Water Supply & Treatment,548.7,m3,0.344,188.75,Scope 3,Verified record from Headquarters operations
+2024-04-04,Headquarters,Operations,Municipal Solid Waste,458.2,kg,0.58,265.76,Scope 3,Verified record from Headquarters operations
+2024-04-06,Headquarters,Transportation,Commercial Fleet Logistics,7444.7,km,0.241,1794.17,Scope 1,Verified record from Headquarters operations
+2024-04-17,Manufacturing Plant A,Operations,Water Supply & Treatment,633.4,m3,0.344,217.89,Scope 3,Verified record from Manufacturing Plant A operations
+2024-04-17,Manufacturing Plant A,Transportation,Employee Commute Travel,8344.7,km,0.113,942.95,Scope 3,Verified record from Manufacturing Plant A operations
+2024-04-28,Manufacturing Plant A,Transportation,Commercial Fleet Logistics,9503.6,km,0.241,2290.37,Scope 1,Verified record from Manufacturing Plant A operations
+2024-04-20,Data Center,Transportation,Employee Commute Travel,2991.8,km,0.113,338.07,Scope 3,Verified record from Data Center operations
+2024-04-12,Data Center,Operations,Water Supply & Treatment,633.8,m3,0.344,218.03,Scope 3,Verified record from Data Center operations
+2024-04-18,Data Center,Operations,Municipal Solid Waste,1151.2,kg,0.58,667.7,Scope 3,Verified record from Data Center operations
+2024-04-11,Logistics Hub,Operations,Municipal Solid Waste,663.0,kg,0.58,384.54,Scope 3,Verified record from Logistics Hub operations
+2024-04-04,Logistics Hub,Electricity,Grid Electricity,42376.6,kWh,0.716,30341.65,Scope 2,Verified record from Logistics Hub operations
+2024-04-27,Logistics Hub,Transportation,Employee Commute Travel,7550.8,km,0.113,853.24,Scope 3,Verified record from Logistics Hub operations
+2024-04-19,Regional Office,Fuel,Diesel Generator Backup,1717.8,liters,2.68,4603.7,Scope 1,Verified record from Regional Office operations
+2024-04-03,Regional Office,Electricity,Grid Electricity,35080.6,kWh,0.716,25117.71,Scope 2,Verified record from Regional Office operations
+2024-04-27,Regional Office,Transportation,Employee Commute Travel,2019.1,km,0.113,228.16,Scope 3,Verified record from Regional Office operations
+2024-05-05,Headquarters,Transportation,Employee Commute Travel,6448.1,km,0.113,728.64,Scope 3,Verified record from Headquarters operations
+2024-05-18,Headquarters,Operations,Municipal Solid Waste,323.4,kg,0.58,187.57,Scope 3,Verified record from Headquarters operations
+2024-05-17,Headquarters,Fuel,Diesel Generator Backup,1602.3,liters,2.68,4294.16,Scope 1,Verified record from Headquarters operations
+2024-05-25,Manufacturing Plant A,Fuel,Natural Gas Heating,2689.8,m3,2.03,5460.29,Scope 1,Verified record from Manufacturing Plant A operations
+2024-05-07,Manufacturing Plant A,Fuel,Diesel Generator Backup,1355.1,liters,2.68,3631.67,Scope 1,Verified record from Manufacturing Plant A operations
+2024-05-13,Manufacturing Plant A,Operations,Municipal Solid Waste,1194.9,kg,0.58,693.04,Scope 3,Verified record from Manufacturing Plant A operations
+2024-05-17,Data Center,Operations,Water Supply & Treatment,416.0,m3,0.344,143.1,Scope 3,Verified record from Data Center operations
+2024-05-08,Data Center,Transportation,Commercial Fleet Logistics,4696.4,km,0.241,1131.83,Scope 1,Verified record from Data Center operations
+2024-05-11,Data Center,Fuel,Natural Gas Heating,563.1,m3,2.03,1143.09,Scope 1,Verified record from Data Center operations
+2024-05-08,Logistics Hub,Operations,Municipal Solid Waste,157.6,kg,0.58,91.41,Scope 3,Verified record from Logistics Hub operations
+2024-05-23,Logistics Hub,Fuel,Diesel Generator Backup,1228.2,liters,2.68,3291.58,Scope 1,Verified record from Logistics Hub operations
+2024-05-08,Logistics Hub,Transportation,Employee Commute Travel,2005.5,km,0.113,226.62,Scope 3,Verified record from Logistics Hub operations
+2024-05-17,Regional Office,Electricity,Grid Electricity,16806.2,kWh,0.716,12033.24,Scope 2,Verified record from Regional Office operations
+2024-05-22,Regional Office,Transportation,Commercial Fleet Logistics,7825.0,km,0.241,1885.83,Scope 1,Verified record from Regional Office operations
+2024-05-18,Regional Office,Transportation,Employee Commute Travel,2492.3,km,0.113,281.63,Scope 3,Verified record from Regional Office operations
+2024-06-08,Headquarters,Operations,Municipal Solid Waste,973.9,kg,0.58,564.86,Scope 3,Verified record from Headquarters operations
+2024-06-26,Headquarters,Transportation,Employee Commute Travel,4552.9,km,0.113,514.48,Scope 3,Verified record from Headquarters operations
+2024-06-04,Headquarters,Fuel,Natural Gas Heating,790.8,m3,2.03,1605.32,Scope 1,Verified record from Headquarters operations
+2024-06-14,Manufacturing Plant A,Fuel,Natural Gas Heating,1901.1,m3,2.03,3859.23,Scope 1,Verified record from Manufacturing Plant A operations
+2024-06-24,Manufacturing Plant A,Transportation,Commercial Fleet Logistics,2650.1,km,0.241,638.67,Scope 1,Verified record from Manufacturing Plant A operations
+2024-06-21,Manufacturing Plant A,Transportation,Employee Commute Travel,8881.2,km,0.113,1003.58,Scope 3,Verified record from Manufacturing Plant A operations
+2024-06-24,Data Center,Electricity,Grid Electricity,20554.2,kWh,0.716,14716.81,Scope 2,Verified record from Data Center operations
+2024-06-28,Data Center,Transportation,Employee Commute Travel,2319.5,km,0.113,262.1,Scope 3,Verified record from Data Center operations
+2024-06-07,Data Center,Fuel,Natural Gas Heating,1070.6,m3,2.03,2173.32,Scope 1,Verified record from Data Center operations
+2024-06-06,Logistics Hub,Fuel,Natural Gas Heating,1335.6,m3,2.03,2711.27,Scope 1,Verified record from Logistics Hub operations
+2024-06-08,Logistics Hub,Fuel,Diesel Generator Backup,1605.5,liters,2.68,4302.74,Scope 1,Verified record from Logistics Hub operations
+2024-06-03,Logistics Hub,Transportation,Employee Commute Travel,4823.5,km,0.113,545.06,Scope 3,Verified record from Logistics Hub operations
+2024-06-02,Regional Office,Transportation,Employee Commute Travel,6391.1,km,0.113,722.19,Scope 3,Verified record from Regional Office operations
+2024-06-18,Regional Office,Operations,Municipal Solid Waste,1027.8,kg,0.58,596.12,Scope 3,Verified record from Regional Office operations
+2024-06-03,Regional Office,Electricity,Grid Electricity,42275.6,kWh,0.716,30269.33,Scope 2,Verified record from Regional Office operations
+2024-07-14,Headquarters,Transportation,Employee Commute Travel,5142.3,km,0.113,581.08,Scope 3,Verified record from Headquarters operations
+2024-07-07,Headquarters,Fuel,Diesel Generator Backup,1590.2,liters,2.68,4261.74,Scope 1,Verified record from Headquarters operations
+2024-07-02,Headquarters,Operations,Water Supply & Treatment,215.2,m3,0.344,74.03,Scope 3,Verified record from Headquarters operations
+2024-07-26,Manufacturing Plant A,Electricity,Grid Electricity,37049.8,kWh,0.716,26527.66,Scope 2,Verified record from Manufacturing Plant A operations
+2024-07-10,Manufacturing Plant A,Fuel,Natural Gas Heating,1769.0,m3,2.03,3591.07,Scope 1,Verified record from Manufacturing Plant A operations
+2024-07-24,Manufacturing Plant A,Transportation,Commercial Fleet Logistics,13945.1,km,0.241,3360.77,Scope 1,Verified record from Manufacturing Plant A operations
+2024-07-05,Data Center,Operations,Municipal Solid Waste,349.4,kg,0.58,202.65,Scope 3,Verified record from Data Center operations
+2024-07-07,Data Center,Operations,Water Supply & Treatment,778.1,m3,0.344,267.67,Scope 3,Verified record from Data Center operations
+2024-07-19,Data Center,Fuel,Natural Gas Heating,2707.2,m3,2.03,5495.62,Scope 1,Verified record from Data Center operations
+2024-07-02,Logistics Hub,Electricity,Grid Electricity,9855.3,kWh,0.716,7056.39,Scope 2,Verified record from Logistics Hub operations
+2024-07-16,Logistics Hub,Operations,Water Supply & Treatment,452.0,m3,0.344,155.49,Scope 3,Verified record from Logistics Hub operations
+2024-07-28,Logistics Hub,Transportation,Commercial Fleet Logistics,8373.5,km,0.241,2018.01,Scope 1,Verified record from Logistics Hub operations
+2024-07-28,Regional Office,Electricity,Grid Electricity,14875.5,kWh,0.716,10650.86,Scope 2,Verified record from Regional Office operations
+2024-07-20,Regional Office,Operations,Municipal Solid Waste,221.4,kg,0.58,128.41,Scope 3,Verified record from Regional Office operations
+2024-07-28,Regional Office,Transportation,Employee Commute Travel,3264.0,km,0.113,368.83,Scope 3,Verified record from Regional Office operations
+2024-08-19,Headquarters,Electricity,Grid Electricity,29997.2,kWh,0.716,21478.0,Scope 2,Verified record from Headquarters operations
+2024-08-20,Headquarters,Operations,Municipal Solid Waste,236.1,kg,0.58,136.94,Scope 3,Verified record from Headquarters operations
+2024-08-22,Headquarters,Fuel,Diesel Generator Backup,1154.7,liters,2.68,3094.6,Scope 1,Verified record from Headquarters operations
+2024-08-07,Manufacturing Plant A,Operations,Municipal Solid Waste,853.2,kg,0.58,494.86,Scope 3,Verified record from Manufacturing Plant A operations
+2024-08-11,Manufacturing Plant A,Transportation,Commercial Fleet Logistics,4864.2,km,0.241,1172.27,Scope 1,Verified record from Manufacturing Plant A operations
+2024-08-13,Manufacturing Plant A,Operations,Water Supply & Treatment,191.6,m3,0.344,65.91,Scope 3,Verified record from Manufacturing Plant A operations
+2024-08-11,Data Center,Operations,Water Supply & Treatment,750.3,m3,0.344,258.1,Scope 3,Verified record from Data Center operations
+2024-08-03,Data Center,Transportation,Commercial Fleet Logistics,2111.8,km,0.241,508.94,Scope 1,Verified record from Data Center operations
+2024-08-20,Data Center,Fuel,Natural Gas Heating,3495.4,m3,2.03,7095.66,Scope 1,Verified record from Data Center operations
+2024-08-07,Logistics Hub,Electricity,Grid Electricity,26717.7,kWh,0.716,19129.87,Scope 2,Verified record from Logistics Hub operations
+2024-08-05,Logistics Hub,Transportation,Employee Commute Travel,8499.4,km,0.113,960.43,Scope 3,Verified record from Logistics Hub operations
+2024-08-03,Logistics Hub,Operations,Municipal Solid Waste,1073.2,kg,0.58,622.46,Scope 3,Verified record from Logistics Hub operations
+2024-08-15,Regional Office,Transportation,Commercial Fleet Logistics,12004.9,km,0.241,2893.18,Scope 1,Verified record from Regional Office operations
+2024-08-23,Regional Office,Transportation,Employee Commute Travel,3768.9,km,0.113,425.89,Scope 3,Verified record from Regional Office operations
+2024-08-26,Regional Office,Fuel,Diesel Generator Backup,1263.7,liters,2.68,3386.72,Scope 1,Verified record from Regional Office operations
+2024-09-10,Headquarters,Electricity,Grid Electricity,42475.0,kWh,0.716,30412.1,Scope 2,Verified record from Headquarters operations
+2024-09-04,Headquarters,Operations,Water Supply & Treatment,757.3,m3,0.344,260.51,Scope 3,Verified record from Headquarters operations
+2024-09-05,Headquarters,Operations,Municipal Solid Waste,427.7,kg,0.58,248.07,Scope 3,Verified record from Headquarters operations
+2024-09-05,Manufacturing Plant A,Electricity,Grid Electricity,18076.9,kWh,0.716,12943.06,Scope 2,Verified record from Manufacturing Plant A operations
+2024-09-20,Manufacturing Plant A,Operations,Water Supply & Treatment,247.4,m3,0.344,85.11,Scope 3,Verified record from Manufacturing Plant A operations
+2024-09-11,Manufacturing Plant A,Operations,Municipal Solid Waste,363.8,kg,0.58,211.0,Scope 3,Verified record from Manufacturing Plant A operations
+2024-09-16,Data Center,Operations,Water Supply & Treatment,275.8,m3,0.344,94.88,Scope 3,Verified record from Data Center operations
+2024-09-28,Data Center,Transportation,Commercial Fleet Logistics,2609.6,km,0.241,628.91,Scope 1,Verified record from Data Center operations
+2024-09-21,Data Center,Operations,Municipal Solid Waste,594.8,kg,0.58,344.98,Scope 3,Verified record from Data Center operations
+2024-09-11,Logistics Hub,Transportation,Commercial Fleet Logistics,11253.4,km,0.241,2712.07,Scope 1,Verified record from Logistics Hub operations
+2024-09-21,Logistics Hub,Electricity,Grid Electricity,44252.5,kWh,0.716,31684.79,Scope 2,Verified record from Logistics Hub operations
+2024-09-06,Logistics Hub,Operations,Water Supply & Treatment,618.9,m3,0.344,212.9,Scope 3,Verified record from Logistics Hub operations
+2024-09-18,Regional Office,Operations,Municipal Solid Waste,160.2,kg,0.58,92.92,Scope 3,Verified record from Regional Office operations
+2024-09-03,Regional Office,Operations,Water Supply & Treatment,761.5,m3,0.344,261.96,Scope 3,Verified record from Regional Office operations
+2024-09-23,Regional Office,Fuel,Natural Gas Heating,3211.8,m3,2.03,6519.95,Scope 1,Verified record from Regional Office operations
+2024-10-19,Headquarters,Operations,Municipal Solid Waste,730.2,kg,0.58,423.52,Scope 3,Verified record from Headquarters operations
+2024-10-14,Headquarters,Electricity,Grid Electricity,12715.5,kWh,0.716,9104.3,Scope 2,Verified record from Headquarters operations
+2024-10-10,Headquarters,Transportation,Commercial Fleet Logistics,6375.8,km,0.241,1536.57,Scope 1,Verified record from Headquarters operations
+2024-10-07,Manufacturing Plant A,Transportation,Employee Commute Travel,6615.5,km,0.113,747.55,Scope 3,Verified record from Manufacturing Plant A operations
+2024-10-22,Manufacturing Plant A,Electricity,Grid Electricity,11803.4,kWh,0.716,8451.23,Scope 2,Verified record from Manufacturing Plant A operations
+2024-10-25,Manufacturing Plant A,Transportation,Commercial Fleet Logistics,8718.6,km,0.241,2101.18,Scope 1,Verified record from Manufacturing Plant A operations
+2024-10-24,Data Center,Transportation,Employee Commute Travel,2659.2,km,0.113,300.49,Scope 3,Verified record from Data Center operations
+2024-10-08,Data Center,Fuel,Natural Gas Heating,3093.8,m3,2.03,6280.41,Scope 1,Verified record from Data Center operations
+2024-10-26,Data Center,Operations,Municipal Solid Waste,1001.3,kg,0.58,580.75,Scope 3,Verified record from Data Center operations
+2024-10-24,Logistics Hub,Fuel,Natural Gas Heating,3273.5,m3,2.03,6645.2,Scope 1,Verified record from Logistics Hub operations
+2024-10-26,Logistics Hub,Electricity,Grid Electricity,42440.2,kWh,0.716,30387.18,Scope 2,Verified record from Logistics Hub operations
+2024-10-26,Logistics Hub,Fuel,Diesel Generator Backup,1288.4,liters,2.68,3452.91,Scope 1,Verified record from Logistics Hub operations
+2024-10-06,Regional Office,Operations,Water Supply & Treatment,651.2,m3,0.344,224.01,Scope 3,Verified record from Regional Office operations
+2024-10-04,Regional Office,Fuel,Diesel Generator Backup,842.9,liters,2.68,2258.97,Scope 1,Verified record from Regional Office operations
+2024-10-02,Regional Office,Transportation,Commercial Fleet Logistics,12303.1,km,0.241,2965.05,Scope 1,Verified record from Regional Office operations
+2024-11-12,Headquarters,Fuel,Diesel Generator Backup,723.0,liters,2.68,1937.64,Scope 1,Verified record from Headquarters operations
+2024-11-26,Headquarters,Transportation,Employee Commute Travel,8034.9,km,0.113,907.94,Scope 3,Verified record from Headquarters operations
+2024-11-08,Headquarters,Fuel,Natural Gas Heating,571.0,m3,2.03,1159.13,Scope 1,Verified record from Headquarters operations
+2024-11-09,Manufacturing Plant A,Fuel,Diesel Generator Backup,1589.7,liters,2.68,4260.4,Scope 1,Verified record from Manufacturing Plant A operations
+2024-11-25,Manufacturing Plant A,Fuel,Natural Gas Heating,1337.4,m3,2.03,2714.92,Scope 1,Verified record from Manufacturing Plant A operations
+2024-11-21,Manufacturing Plant A,Transportation,Commercial Fleet Logistics,8112.9,km,0.241,1955.21,Scope 1,Verified record from Manufacturing Plant A operations
+2024-11-01,Data Center,Operations,Water Supply & Treatment,180.7,m3,0.344,62.16,Scope 3,Verified record from Data Center operations
+2024-11-09,Data Center,Operations,Municipal Solid Waste,337.5,kg,0.58,195.75,Scope 3,Verified record from Data Center operations
+2024-11-09,Data Center,Transportation,Commercial Fleet Logistics,2459.1,km,0.241,592.64,Scope 1,Verified record from Data Center operations
+2024-11-24,Logistics Hub,Operations,Municipal Solid Waste,975.7,kg,0.58,565.91,Scope 3,Verified record from Logistics Hub operations
+2024-11-14,Logistics Hub,Fuel,Natural Gas Heating,2318.6,m3,2.03,4706.76,Scope 1,Verified record from Logistics Hub operations
+2024-11-17,Logistics Hub,Transportation,Commercial Fleet Logistics,3387.7,km,0.241,816.44,Scope 1,Verified record from Logistics Hub operations
+2024-11-02,Regional Office,Operations,Municipal Solid Waste,894.2,kg,0.58,518.64,Scope 3,Verified record from Regional Office operations
+2024-11-01,Regional Office,Fuel,Diesel Generator Backup,1055.9,liters,2.68,2829.81,Scope 1,Verified record from Regional Office operations
+2024-11-26,Regional Office,Transportation,Commercial Fleet Logistics,8461.4,km,0.241,2039.2,Scope 1,Verified record from Regional Office operations
+2024-12-12,Headquarters,Operations,Water Supply & Treatment,401.9,m3,0.344,138.25,Scope 3,Verified record from Headquarters operations
+2024-12-22,Headquarters,Transportation,Employee Commute Travel,8405.8,km,0.113,949.86,Scope 3,Verified record from Headquarters operations
+2024-12-20,Headquarters,Fuel,Diesel Generator Backup,736.6,liters,2.68,1974.09,Scope 1,Verified record from Headquarters operations
+2024-12-17,Manufacturing Plant A,Transportation,Employee Commute Travel,3819.6,km,0.113,431.61,Scope 3,Verified record from Manufacturing Plant A operations
+2024-12-14,Manufacturing Plant A,Electricity,Grid Electricity,20068.8,kWh,0.716,14369.26,Scope 2,Verified record from Manufacturing Plant A operations
+2024-12-23,Manufacturing Plant A,Transportation,Commercial Fleet Logistics,5547.9,km,0.241,1337.04,Scope 1,Verified record from Manufacturing Plant A operations
+2024-12-22,Data Center,Fuel,Diesel Generator Backup,1707.6,liters,2.68,4576.37,Scope 1,Verified record from Data Center operations
+2024-12-22,Data Center,Transportation,Employee Commute Travel,7111.0,km,0.113,803.54,Scope 3,Verified record from Data Center operations
+2024-12-06,Data Center,Fuel,Natural Gas Heating,2346.5,m3,2.03,4763.39,Scope 1,Verified record from Data Center operations
+2024-12-27,Logistics Hub,Transportation,Commercial Fleet Logistics,2004.9,km,0.241,483.18,Scope 1,Verified record from Logistics Hub operations
+2024-12-10,Logistics Hub,Fuel,Natural Gas Heating,1130.5,m3,2.03,2294.91,Scope 1,Verified record from Logistics Hub operations
+2024-12-26,Logistics Hub,Operations,Municipal Solid Waste,759.0,kg,0.58,440.22,Scope 3,Verified record from Logistics Hub operations
+2024-12-15,Regional Office,Operations,Water Supply & Treatment,409.5,m3,0.344,140.87,Scope 3,Verified record from Regional Office operations
+2024-12-07,Regional Office,Transportation,Commercial Fleet Logistics,8134.1,km,0.241,1960.32,Scope 1,Verified record from Regional Office operations
+2024-12-26,Regional Office,Fuel,Natural Gas Heating,3203.5,m3,2.03,6503.1,Scope 1,Verified record from Regional Office operations

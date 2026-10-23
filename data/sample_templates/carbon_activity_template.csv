@@ -1,0 +1,7 @@
+Date,Department,Category,Activity_Type,Activity_Amount,Activity_Unit,Emission_Factor,Emissions_kgCO2e,Scope,Notes
+2024-01-05,Headquarters,Electricity,Grid Electricity,12500,kWh,0.716,8950.0,Scope 2,CEA Ver 19 Baseline Factor
+2024-01-08,Manufacturing,Fuel,Diesel Generator,450,liters,2.68,1206.0,Scope 1,Backup Power Generation
+2024-01-12,Logistics,Transportation,Diesel Van,1800,km,0.241,433.8,Scope 1,Urban Delivery Fleet
+2024-01-15,Headquarters,Waste,Municipal Solid Waste,320,kg,0.58,185.6,Scope 3,Office Landfill Waste
+2024-01-20,Manufacturing,Fuel,Natural Gas Heating,850,m3,2.03,1725.5,Scope 1,Boiler Heating
+2024-01-25,Data Center,Electricity,Cooling & Server Power,28400,kWh,0.716,20334.4,Scope 2,Primary Operations
